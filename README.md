@@ -81,4 +81,4 @@ College Mail - 250301120309@centurionuniv.edu.in
 🧾 License
 This project is comppletely open-source .
 
-![image alt](
+![image alt](https://github.com/singhshriya9178-cell/TIC-TAC-TOE-GAME/blob/bf0c81b6eb95c9482cfed8aa6b89013675f21aee/output.c.png)
